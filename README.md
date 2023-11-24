@@ -1,10 +1,14 @@
-<h3>A Passionate fullStack web Developer</h3>
+<h2 align='center'>A fullStack web Developer</h3>
+ <h3>How to reach me</h3> **razineal@gmail.com**
+
+
 
 - 👋 Hi, I’m @razineAl
 - 👀 I’m interested in coding , chess and cyber security
-- 🌱 I’m currently learning express js
+- 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on : creating full Stack responsive websites
-- 📫 How to reach me : razineal@gmail.com
+  
+
 
 <!---
 razineAl/razineAl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
