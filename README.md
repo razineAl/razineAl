@@ -1,6 +1,6 @@
 <h2 align='center'>A fullStack web Developer</h3>
 <h3>How to reach me</h3>
-<p style='text-decoration:underline'>razineal@gmail.com</p>
+<a href='mailto:razineal@gmail.com'>razineal@gmail.com</a>
  
 
 
