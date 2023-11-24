@@ -1,4 +1,4 @@
-<h2 align='center'>A fullStack web Developer</h3>
+<h1 align='center'>A fullStack web Developer</h1>
 
 
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on : creating full Stack responsive websites
 - 📫
-<h3>How to reach me</h3>
+<h2>How to reach me :</h2>
 <a href='mailto:razineal@gmail.com'>razineal@gmail.com</a>
  
 
