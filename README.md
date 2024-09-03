@@ -1,8 +1,8 @@
 <h1 align='center'> FullStack web Developer </h1>
 
-<br>
-<img align="center" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>
+
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 👋 Hi, I’m @razineAl
 - 👀 I’m interested in coding , chess and cyber security
