@@ -30,7 +30,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razineal&layout=compact&langs_count=10&theme=light" alt="razineal" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=razineal&theme=light&hide_border=false&background=FFFFFF&ring=000000&fire=FF4500&currStreakLabel=000000" alt="razineal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razineal&show_icons=true&theme=light&bg_color=FFFFFF&text_color=000000" alt="razineal" /></p>
+
 
 
 
